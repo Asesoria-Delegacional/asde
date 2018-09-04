@@ -2,4 +2,6 @@
 
 # Nuevo proyecto
 
-## Inicion: subir a gitHub
+## Inicio: subir a gitHub
+
+### **Se ha añadido nuevo contenido**
